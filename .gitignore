@@ -1,0 +1,7 @@
+error.log
+*log.txt
+/dir/
+static/dir
+error(1).log.txt
+db
+myexcel
